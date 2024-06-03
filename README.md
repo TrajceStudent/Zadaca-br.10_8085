@@ -1,4 +1,4 @@
-# Zadaca-br.10_8085
+ # Zadaca-br.10_8085
 
 Two 8-bit devices communicate in parallel with each other certain rate of X [B/s].
 
